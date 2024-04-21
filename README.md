@@ -5,6 +5,8 @@ The Doctor Recommendation System is a web-based application designed to assist p
 - **Symptom Input:** Users can enter their health symptoms into a user-friendly interface.
 - **Doctor Recommendations:** Based on the input symptoms, the system recommends doctors specializing in the relevant medical fields.
 - **Database Integration:** Utilizes MongoDB for storing and retrieving doctor information and patient queries.
+- **Time Slot Selection and Booking:** Users can select a time slot for an appointment with a recommended doctor. The system checks the 
+    availability of the selected time slot in real-time and, if available, books it for the user.
 
 ## Requirements
 - Python 3.8+
