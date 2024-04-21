@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctor Recommendations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Recommended Doctors for Condition: {{ condition }}</h1>
+            <p>Based on your symptoms: {{ query }}</p>
+        </header>
+        <section class="cards">
+            {% if doctors %}
+            {% for doctor in doctors %}
+            <div class="doctor-card">
+                <h2>{{ doctor['Name'] }}</h2>
+                <p><strong>Specialty:</strong> {{ doctor['Specialty'] }}</p>
+                <p><strong>Rating:</strong> {{ doctor['Rating'] }} / 5</p>
+                <p><strong>Availability:</strong> {{ doctor['Availability'] }}</p>
+                <!-- Button to book an appointment -->
+                <a href="{{ url_for('book_appointment_form', doctor_name=doctor['Name']) }}" class="btn btn-primary">Book Appointment</a>
+            </div>
+            {% endfor %}
+            {% else %}
+            <p>No recommendations available.</p>
+            {% endif %}
+        </section>
+        <footer>
+            <a href="/">Try another symptom</a>
+        </footer>
+    </div>
+</body>
+</html>

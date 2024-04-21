@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book Appointment</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="form-container">
+        <h1>Book an Appointment with Dr. {{ doctor['Name'] }}</h1>
+        <form action="{{ url_for('book_appointment', doctor_name=doctor['Name']) }}" method="post">
+            <label for="patient_name">Patient Name:</label>
+            <input type="text" id="patient_name" name="patient_name" required>
+            
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required>
+
+            <label for="mobile_no">Mobile Number:</label>
+            <input type="tel" id="mobile_no" name="mobile_no" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="date">Date:</label>
+            <input type="date" id="date" name="date" required>
+
+            <label for="time">Time:</label>
+            <input type="time" id="time" name="time" required>
+
+            <button type="submit">Book Appointment</button>
+        </form>
+    </div>
+</body>
+</html>
