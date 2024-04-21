@@ -36,9 +36,9 @@ mongoimport --type csv --headerline --file path\to\doctors_dataset.csv --collect
 ```
 ## Usage
 - start mongodb server
-  '''bash
-  mongosh
-  ```
+```bash
+mongosh
+```
 ### Running the application
 ```bash
 python app.py
