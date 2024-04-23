@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Appointment Confirmation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="confirmation-container">
+        <h1>Appointment Successfully Booked!</h1>
+        <p>Thank you, {{ patient_name }}. Your appointment with Dr. {{ doctor_name }} on {{ date }} at {{ time }} has been successfully booked.</p>
+        <a href="{{ url_for('index') }}">Return Home</a>
+    </div>
+</body>
+</html>

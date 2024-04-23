@@ -12,6 +12,10 @@
             <h1>Recommended Doctors for Condition: {{ condition }}</h1>
             <p>Based on your symptoms: {{ query }}</p>
         </header>
+         <section class="first-aid-advice">
+            <h2>First Aid Advice</h2>
+            <p>{{ advice }}</p>
+        </section>
         <section class="cards">
             {% if doctors %}
             {% for doctor in doctors %}

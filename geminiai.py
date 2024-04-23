@@ -1,77 +1,47 @@
 import json
 import google.generativeai as genai
 from pymongo import MongoClient
-genai.configure(api_key="AIzaSyA_OeuxzXjPyME3Lu5TKY1coJ48VP0pWBw")
-model = genai.GenerativeModel('gemini-pro')
-text='''i have these cateogory of doctors
-    "Pulmonologist",
-    "General Physician",
-    "Immunologist",
-    "Dermatologist",
-    "Cardiologist",
-    "Neurologist",
-    "Gastroenterologist",
-    "Endocrinologist",
-    "Orthopedist",
-    "Oncologist",
-    "Psychiatrist",
-    "Nephrologist",
-    "ENT Specialist",
-    "Pediatrician",
-    "Rheumatologist",
-    "Allergist",
-    "Urologist",
-    "Ophthalmologist",
-    "Podiatrist",
-    "Hematologist",
-    "Infectious Disease Specialist",
-    "Gynecologist",
-    "General Surgeon",
-    "Emergency Medicine Specialist" suggest me best doctors based on the symptoms "cold" give me output in this format {
-  "recommended_doctors": [
-    {
-      "category": "",
-      "reason": ""
-    },
-    {
-      "category": "",
-      "reason": ""
-    }
-  ]
-}
-'''
-response = model.generate_content(text)
-result = response._result.candidates[0].content.parts[0].text
-json_data = result.strip('```json\n').strip('\n```')
-print(json_data)
-try:
-    response_json = json.loads(json_data)
-    recommended_specialties = [item['category'] for item in response_json["recommended_doctors"]]
-except (json.JSONDecodeError, KeyError) as e:
-    print("Error parsing JSON or accessing keys:", e)
-    exit()
+def configure_ai(api_key):
+    genai.configure(api_key=api_key)
+def get_ai_response(symptoms):
+    model = genai.GenerativeModel('gemini-pro')
+    text=f"Based on the symptom '{symptoms}', suggest first aid or safety measures for temporary relief for the patient before reaching a doctor."
+    response = model.generate_content(text)
+    advice = response._result.candidates[0].content.parts[0].text.strip('```json\n').strip('\n```')
+    return advice
+    # result = response._result.candidates[0].content.parts[0].text
+    # json_data = result.strip('```json\n').strip('\n```')
+    # print(json_data)
+# client = MongoClient('mongodb://localhost:27017/')
+# db = client['HealthcareDB']
+# collection = db['doctors']
+# response_json = json.loads(json_data)
+# try:
+#     response_json = json.loads(json_data)
+#     recommended_specialties = [item['category'] for item in response_json["recommended_doctors"]]
+# except (json.JSONDecodeError, KeyError) as e:
+#     print("Error parsing JSON or accessing keys:", e)
+#     exit()
 
-# MongoDB Setup
-client = MongoClient('mongodb://localhost:27017/')
-db = client['HealthcareDB']
-collection = db['doctors']
+# # MongoDB Setup
+# client = MongoClient('mongodb://localhost:27017/')
+# db = client['HealthcareDB']
+# collection = db['doctors']
 
-# Function to find top doctors
-def find_top_doctors(specialties):
-    top_doctors = []
-    for specialty in specialties:
-        top_doc = collection.find_one(
-            {'Specialty': {'$regex': f'^{specialty}$', '$options': 'i'}},
-            sort=[('Rating', -1)]
-        )
-        if top_doc:
-            top_doctors.append(top_doc)
-    return top_doctors
+# # Function to find top doctors
+# def find_top_doctors(specialties):
+#     top_doctors = []
+#     for specialty in specialties:
+#         top_doc =collection.find({"Specialty": {'$regex': f'^.*{specialty}.*$', '$options': 'i'}})
+#         if top_doc:
+#             top_doctors.append(top_doc)
+#     return top_doctors
 
-# Retrieve and print top doctors
-top_doctors = find_top_doctors(recommended_specialties)
-if top_doctors:
-    for doctor in top_doctors:
-        print(f"Name: {doctor['Name']}, Specialty: {doctor['Specialty']}, Rating: {doctor['Rating']}")
-else:
-    print("No top doctors found for the given specialties.")
+# # Retrieve and print top doctors
+# top_doctors = find_top_doctors(recommended_specialties)
+# print(top_doctors)
+# if top_doctors:
+#     for doctor in top_doctors:
+#         print(f"Name: {doctor['Name']}, Specialty: {doctor['Specialty']}, Rating: {doctor['Rating']}")
+# else:
+#     print("No top doctors found for the given specialties.")

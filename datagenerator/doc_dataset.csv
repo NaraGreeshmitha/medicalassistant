@@ -1,301 +1,401 @@
 Name,Specialty,Availability,Rating
-Shane Mcdowell,Gynecologist,Tuesday,4.3
-Shannon Simpson,Endocrinologist,Friday,4.3
-John Perry,Dermatologist,Wednesday,3.7
-Alexander Cruz,General Surgeon,Friday,4.1
-Christopher Luna,Gastroenterologist,Thursday,3.6
-Beth Reyes,Nephrologist,Friday,4.9
-Shelby Russell,Orthopedist,Wednesday,3.1
-Brandon Williams,ENT Specialist,Friday,3.7
-Adrienne Davis,General Physician,Thursday,4.8
-Donald Delgado,Emergency Medicine Specialist,Friday,4.4
-Daniel Brown,Gynecologist,Wednesday,5.0
-Victoria Ponce,Oncologist,Tuesday,4.5
-Carol Mullins,General Physician,Monday,4.1
-Shannon Brown,Podiatrist,Friday,3.3
-Jason Bernard,Gastroenterologist,Wednesday,4.3
-Katie Martinez,Orthopedist,Wednesday,4.8
-Veronica Bryant,Podiatrist,Tuesday,3.7
-Vicki Wilkins,Gynecologist,Tuesday,4.9
-Aaron Taylor,Pulmonologist,Friday,4.9
-Cindy Hammond,Cardiologist,Wednesday,3.8
-Matthew Carey,Allergist,Tuesday,4.6
-William Arnold,Endocrinologist,Wednesday,4.2
-Douglas Berg,Pulmonologist,Wednesday,3.5
-Allison Lynn,Endocrinologist,Tuesday,4.2
-Briana Hill,Pediatrician,Friday,4.9
-Ronald Parker,Endocrinologist,Tuesday,4.9
-Russell Thompson,Gynecologist,Monday,3.8
-Daniel Kirk,Cardiologist,Friday,3.2
-Vincent Duncan,Psychiatrist,Thursday,4.4
-Antonio Cooper,Nephrologist,Monday,3.8
-Robert Bryant,Dermatologist,Tuesday,3.2
-Stephanie Gutierrez,Psychiatrist,Tuesday,4.0
-Ashlee Tucker,Pulmonologist,Wednesday,4.6
-James Parker,Pediatrician,Friday,3.9
-Janet Atkins,Rheumatologist,Thursday,4.4
-Paul Jackson,Emergency Medicine Specialist,Friday,4.8
-Brett Frey,ENT Specialist,Wednesday,4.4
-Jessica Guzman,Immunologist,Friday,4.5
-Joyce Morrison,Neurologist,Friday,3.1
-Andrea Mcintosh,Urologist,Thursday,4.0
-Thomas Davis,Psychiatrist,Wednesday,4.0
-William Morales,Ophthalmologist,Monday,4.8
-Jacob Horn,Immunologist,Thursday,3.5
-Samuel Francis,Podiatrist,Wednesday,3.8
-Brenda Cardenas,General Surgeon,Monday,4.2
-Phillip Atkinson,Oncologist,Wednesday,3.4
-Frances King,Ophthalmologist,Monday,3.2
-Daniel Blanchard,Emergency Medicine Specialist,Thursday,4.3
-Nicole Spencer,Ophthalmologist,Wednesday,3.7
-Adam Parrish,Rheumatologist,Tuesday,3.3
-Maureen Wheeler,Urologist,Wednesday,4.9
-Anthony Mcintyre,Hematologist,Wednesday,3.2
-Justin Young,Gynecologist,Friday,4.0
-Vernon Stark,Immunologist,Tuesday,4.6
-Kimberly Leonard,General Surgeon,Tuesday,3.4
-Amanda Cox,General Physician,Monday,4.9
-Kenneth Harrell,Oncologist,Thursday,3.5
-Zachary King,Infectious Disease Specialist,Monday,4.0
-Amy Dennis,Immunologist,Thursday,3.9
-John Stevens,ENT Specialist,Monday,3.3
-Steven Garza,Nephrologist,Tuesday,3.5
-Thomas Wolfe,Ophthalmologist,Thursday,3.7
-Christopher Armstrong,Gastroenterologist,Friday,3.9
-Cynthia Edwards,Oncologist,Monday,3.4
-Cheyenne Harris,ENT Specialist,Wednesday,3.6
-Taylor Rodriguez,Allergist,Wednesday,3.0
-Kayla Woodard,Orthopedist,Tuesday,3.5
-Heidi Taylor,Psychiatrist,Thursday,4.1
-Stacy Bates,Neurologist,Monday,4.0
-Jason Juarez,Endocrinologist,Wednesday,3.3
-Martin Lee,Pulmonologist,Thursday,4.5
-Sharon Lee,Infectious Disease Specialist,Tuesday,4.9
-Dr. Kristen Patrick,Podiatrist,Wednesday,3.7
-Jacob Morrow,Urologist,Thursday,3.4
-Nicholas Perkins,Immunologist,Monday,4.6
-Juan Molina,Dermatologist,Thursday,4.9
-Keith Garcia,Pediatrician,Tuesday,3.9
-Michelle Baldwin,Nephrologist,Tuesday,3.2
-Eric Wells,Immunologist,Thursday,4.5
-Dean Hale,Neurologist,Wednesday,4.9
-Elizabeth Logan,Oncologist,Thursday,3.5
-Karina Garcia,ENT Specialist,Monday,3.8
-Gwendolyn Smith,Ophthalmologist,Friday,3.6
-Rebecca Russell,Dermatologist,Wednesday,4.0
-Emily Clark,Endocrinologist,Thursday,4.8
-Travis Miller,Rheumatologist,Thursday,3.6
-Ann Mcfarland,ENT Specialist,Monday,3.9
-Adam Scott,Rheumatologist,Monday,4.8
-Amy Raymond,Ophthalmologist,Wednesday,4.2
-Justin Johnson,Dermatologist,Monday,4.9
-Jessica Gonzalez,Rheumatologist,Thursday,4.3
-Alexis Cunningham,Ophthalmologist,Wednesday,3.3
-Barbara Reed,Dermatologist,Wednesday,3.1
-Danielle Burke,Neurologist,Wednesday,3.4
-Mr. Richard Brown,Rheumatologist,Monday,4.9
-Lisa Berg,Emergency Medicine Specialist,Thursday,4.3
-Brian Nguyen,Pediatrician,Tuesday,5.0
-Kelly Miller,Cardiologist,Monday,3.8
-Debra Krueger,General Physician,Monday,4.6
-Richard Rogers,Psychiatrist,Thursday,3.0
-Nancy Palmer,Orthopedist,Thursday,3.8
-Diana Hill,ENT Specialist,Thursday,3.9
-Terry Davis,Orthopedist,Friday,3.0
-Robert Ruiz,Endocrinologist,Tuesday,3.5
-Whitney Mueller,ENT Specialist,Friday,3.5
-Kimberly Hamilton,Urologist,Wednesday,3.0
-Mark Lynch,Dermatologist,Thursday,3.4
-Kevin Baker DDS,Pulmonologist,Thursday,3.7
-William Dennis,Endocrinologist,Monday,3.5
-Angelica Lee,Rheumatologist,Tuesday,4.4
-Kim Sexton,Hematologist,Monday,3.9
-Heidi Williams,Urologist,Friday,4.3
-David Thomas,Cardiologist,Friday,4.2
-Erin Wyatt,Psychiatrist,Thursday,3.6
-Linda Rice,Urologist,Wednesday,3.6
-Michael Ball,ENT Specialist,Tuesday,4.5
-Angela Maxwell,Gastroenterologist,Friday,4.7
-Bethany Duncan,Endocrinologist,Friday,3.5
-Richard Lucas,Podiatrist,Wednesday,4.8
-Dylan Garrett,Cardiologist,Tuesday,4.5
-Connie Huerta,Emergency Medicine Specialist,Monday,4.8
-Henry English,Urologist,Thursday,4.6
-Sarah Tyler,Endocrinologist,Tuesday,3.6
-Sheri Carroll,Cardiologist,Wednesday,4.1
-Catherine Smith,Immunologist,Thursday,3.5
-Nina Stephens,ENT Specialist,Monday,4.9
-Shannon Stanley,General Surgeon,Wednesday,3.4
-Keith Lopez,General Surgeon,Thursday,4.5
-Christopher Sanchez,Neurologist,Thursday,4.9
-Jonathan Knight,Cardiologist,Monday,4.3
-Mary Boyd,Gastroenterologist,Friday,4.3
-Jessica Mcguire,Gastroenterologist,Friday,4.4
-Mrs. Amanda Garza MD,Emergency Medicine Specialist,Friday,3.3
-Amber Williams,Rheumatologist,Monday,4.4
-Lisa Esparza,ENT Specialist,Thursday,4.6
-Darlene Brown,General Physician,Wednesday,3.4
-Heather Stephens,Dermatologist,Monday,3.5
-Stanley Acosta,Allergist,Monday,3.1
-Charles Phillips,Ophthalmologist,Thursday,3.5
-Timothy Vega,Ophthalmologist,Wednesday,4.1
-Kayla Lawson,Cardiologist,Monday,4.7
-Kurt Bailey,Gynecologist,Friday,4.6
-Catherine Estes,Nephrologist,Thursday,3.6
-Brenda Chavez,Rheumatologist,Monday,4.4
-George Wagner,ENT Specialist,Monday,3.7
-Kristine Porter,Rheumatologist,Monday,5.0
-Evan Short,Dermatologist,Wednesday,4.0
-Mr. Thomas Robinson MD,Cardiologist,Friday,4.0
-Terry Barr,Allergist,Thursday,4.8
-Jack Gonzalez,General Physician,Tuesday,3.5
-Sierra Marshall,Endocrinologist,Tuesday,3.8
-Michael Ross,General Surgeon,Monday,3.7
-Adam Bailey,Urologist,Monday,3.2
-Tiffany Trujillo,Podiatrist,Friday,4.0
-Heather Rivera,Oncologist,Friday,4.9
-Anthony Carson,Psychiatrist,Tuesday,3.6
-Andrew Rogers,Allergist,Wednesday,3.8
-Kelly Turner,Psychiatrist,Thursday,3.9
-Alicia Leon MD,Infectious Disease Specialist,Tuesday,4.3
-Nicholas Hall,Endocrinologist,Thursday,3.4
-Joshua Potter,Gynecologist,Tuesday,4.2
-Brandon Casey,Infectious Disease Specialist,Friday,4.6
-Jose Cohen PhD,Endocrinologist,Monday,3.3
-Brian Delgado,Oncologist,Wednesday,4.3
-Julie Luna,Ophthalmologist,Thursday,4.0
-Austin Carter,Urologist,Tuesday,4.1
-Tina Lawson,Neurologist,Monday,3.1
-Cheryl Haynes,Gynecologist,Thursday,4.4
-Vickie Johnson,Hematologist,Monday,3.2
-Brian Ray,Emergency Medicine Specialist,Tuesday,4.2
-Jason Peters,Gynecologist,Friday,3.0
-Rodney Garcia,Endocrinologist,Tuesday,4.7
-Natalie Krause,Rheumatologist,Friday,4.7
-Katherine Alvarez,Emergency Medicine Specialist,Tuesday,4.6
-Devin Roberts DDS,Orthopedist,Wednesday,4.8
-Kaylee Knight,Gynecologist,Tuesday,4.3
-Gary Phillips,ENT Specialist,Friday,5.0
-Darren Roberts,Rheumatologist,Thursday,4.0
-Jonathon Lee,ENT Specialist,Tuesday,4.5
-Diana Braun,Nephrologist,Tuesday,3.5
-Nicole Lamb,Pulmonologist,Friday,3.3
-Lauren Williams,ENT Specialist,Tuesday,4.5
-Pamela Fry,Allergist,Thursday,4.0
-Matthew Warner,Urologist,Friday,3.7
-Jasmin Booth,Neurologist,Thursday,3.7
-Thomas Jacobs,Cardiologist,Monday,3.3
-Bobby Adkins,Ophthalmologist,Thursday,5.0
-Dominic Reed,Psychiatrist,Thursday,3.4
-Daniel Roberts,Rheumatologist,Monday,3.9
-Michael Ortega,Oncologist,Thursday,3.5
-Jessica Taylor,Gastroenterologist,Wednesday,3.3
-Mary Williams,Rheumatologist,Monday,4.4
-Lindsey Arnold,Immunologist,Thursday,4.5
-Stacy Martin,Infectious Disease Specialist,Wednesday,4.1
-Adam Walker,Immunologist,Monday,3.9
-Alan Calderon,Pulmonologist,Wednesday,3.3
-Jacqueline Garcia,Immunologist,Monday,3.8
-Molly Fowler,Urologist,Friday,4.4
-Christine Lee,Cardiologist,Friday,3.0
-Duane Jacobs,Ophthalmologist,Wednesday,3.3
-Derek Lucas,Gastroenterologist,Wednesday,3.3
-Dustin Leblanc,Orthopedist,Wednesday,3.1
-Vanessa Russell,Psychiatrist,Tuesday,3.9
-Matthew Waters,Rheumatologist,Monday,3.2
-Micheal Dougherty,Hematologist,Tuesday,3.9
-Ashley Hall,Oncologist,Wednesday,3.3
-Richard Cole,Gynecologist,Thursday,4.2
-Joseph Nguyen,Urologist,Monday,3.9
-Stephanie Bray,Rheumatologist,Thursday,4.4
-Jason Brown,Orthopedist,Thursday,4.9
-Deborah Hall,Allergist,Wednesday,4.6
-Mrs. Laura Carpenter DDS,Orthopedist,Monday,3.8
-Kayla Booth,Emergency Medicine Specialist,Tuesday,3.2
-Theodore Small,General Physician,Friday,5.0
-Jerry Bowen,Psychiatrist,Tuesday,4.1
-Sarah Bauer,Podiatrist,Wednesday,3.9
-Bailey Miller,Rheumatologist,Tuesday,3.5
-Amanda Smith,Rheumatologist,Thursday,3.3
-Katie Russo,Endocrinologist,Friday,4.8
-Cristian Davis,General Physician,Tuesday,3.6
-Aaron Shepherd,Dermatologist,Thursday,3.1
-Joshua Lane,Rheumatologist,Friday,4.9
-Jeffrey Le,Pulmonologist,Thursday,3.0
-Donald Parrish,Emergency Medicine Specialist,Monday,4.6
-Victor English,Pulmonologist,Monday,4.7
-Laurie Simmons,Dermatologist,Monday,4.8
-Sean Garrett,Endocrinologist,Wednesday,3.5
-Brooke Green,Podiatrist,Tuesday,4.2
-Shannon Banks,Oncologist,Monday,4.6
-Richard Gallagher,Immunologist,Wednesday,3.3
-Samantha Olson,Urologist,Friday,5.0
-Jason Grant,Cardiologist,Tuesday,3.7
-Andrew Mccullough,Oncologist,Wednesday,3.4
-Michael Jenkins,Hematologist,Thursday,4.7
-Jeffery Kemp,Ophthalmologist,Thursday,3.8
-Loretta Nguyen,Urologist,Thursday,4.1
-Heather Sanchez,General Surgeon,Thursday,3.8
-Alicia Mitchell,Urologist,Wednesday,3.4
-Kathryn Yang,Neurologist,Wednesday,3.0
-Randall Alvarez,Urologist,Wednesday,4.4
-Susan Lopez,Emergency Medicine Specialist,Monday,3.5
-Chelsea Wheeler,General Surgeon,Tuesday,3.1
-Amanda Eaton,Immunologist,Wednesday,3.2
-Kathy Parker,Emergency Medicine Specialist,Wednesday,5.0
-Melissa Gay,Ophthalmologist,Thursday,4.7
-Sarah Russell,Oncologist,Wednesday,3.6
-Michael Perez,Urologist,Thursday,3.9
-Christine Alexander,Hematologist,Thursday,4.5
-Amber Barton,Oncologist,Thursday,4.4
-Dwayne Monroe,Immunologist,Wednesday,4.9
-David Obrien,Orthopedist,Tuesday,3.6
-Christopher Lee DDS,ENT Specialist,Wednesday,3.7
-Eric Moran,Emergency Medicine Specialist,Tuesday,4.2
-David Miller,Ophthalmologist,Thursday,3.4
-Paula Booker,Allergist,Monday,3.9
-Jeffrey Gardner,Cardiologist,Monday,4.7
-Mark Duarte,ENT Specialist,Tuesday,3.3
-Reginald Bell,Rheumatologist,Thursday,4.8
-Darren Acosta,Immunologist,Friday,4.3
-Briana Potter,Ophthalmologist,Tuesday,3.6
-Donald Price,Urologist,Wednesday,4.7
-Jeffrey Anderson,Cardiologist,Wednesday,3.8
-Isaac Tran,Rheumatologist,Tuesday,4.1
-Matthew Phillips,Allergist,Friday,3.8
-Kenneth Anderson,Rheumatologist,Wednesday,4.5
-Gina Nelson,Psychiatrist,Thursday,4.9
-Matthew Nelson,Rheumatologist,Thursday,4.4
-Michael Murray,Immunologist,Monday,4.7
-Mary Blackburn,General Physician,Wednesday,4.8
-Amy Rodriguez,Nephrologist,Thursday,3.1
-Ronnie Atkins,General Physician,Tuesday,4.4
-Amy Rivers DDS,Endocrinologist,Wednesday,3.7
-Nicolas Gonzalez,Allergist,Monday,3.2
-Jesse Watson,Gynecologist,Monday,3.8
-Timothy Clark,Podiatrist,Tuesday,3.1
-Stephanie Wiggins,Immunologist,Thursday,3.9
-Tyler Roberts,General Surgeon,Thursday,3.6
-Timothy Wilson,General Physician,Tuesday,4.1
-Chad Brown,Pediatrician,Thursday,3.7
-Heather Olson,General Surgeon,Tuesday,3.7
-Julian Clayton,General Physician,Wednesday,4.9
-Scott Nelson,Pulmonologist,Tuesday,4.3
-Robin Bailey,Orthopedist,Thursday,4.5
-Lawrence Church,Gastroenterologist,Thursday,4.4
-Christina Johnson,Hematologist,Monday,3.2
-Elizabeth Estrada,Ophthalmologist,Tuesday,4.4
-Jordan Doyle,Oncologist,Wednesday,3.6
-Kathryn James,Nephrologist,Thursday,4.7
-Melissa Watson,Dermatologist,Tuesday,4.5
-Hannah Riddle,Urologist,Thursday,4.7
-Melissa Hayden,Rheumatologist,Wednesday,3.6
-Dakota Ferrell,Emergency Medicine Specialist,Tuesday,3.5
-Isaiah Moreno,Allergist,Wednesday,4.7
-Michael Wright,Emergency Medicine Specialist,Monday,3.5
-Heidi Peters,Immunologist,Wednesday,4.4
-Larry Simpson,Immunologist,Thursday,4.1
-Jessica Snyder,Gynecologist,Tuesday,4.9
-Matthew Gibson,Orthopedist,Tuesday,3.0
-Robin Joseph,Nephrologist,Friday,4.6
-Marisa Pham,ENT Specialist,Thursday,3.9
+Jason Miller,orthopedics,Monday,3.4
+Stephen Finley,gynecology,Tuesday,4.2
+Michael Blair,pulmonology,Tuesday,3.7
+Brooke Moore,nephrology,Tuesday,2.6
+Melanie Horn,nephrology,Thursday,4.9
+Logan Williams,orthopedics,Wednesday,3.7
+Larry Barr,cardiology,Friday,2.6
+Jared Morgan,oncology,Wednesday,2.9
+Sharon Jones,rheumatology,Tuesday,2.1
+Kelsey Harmon,urology,Tuesday,2.1
+Paul Peterson,infectious diseases,Wednesday,3.5
+Christina Miller,dermatology,Thursday,3.2
+Lisa Hernandez,urology,Tuesday,2.1
+Elizabeth Thomas,gynecology,Monday,4.2
+Brendan Banks,infectious diseases,Friday,2.7
+Joseph Martinez,nephrology,Monday,4.3
+Anne Thomas,endocrinology,Thursday,3.7
+Sarah Dickson,endocrinology,Wednesday,3.5
+Monica Watson,general practice,Thursday,3.4
+Alfred Clark,psychology,Tuesday,4.8
+Edwin Hill,pulmonology,Thursday,2.6
+Lisa Wheeler,orthopedics,Friday,2.5
+Jesus Little,otolaryngology,Thursday,3.8
+Cynthia Mason,dermatology,Friday,2.7
+Karen Fischer,pulmonology,Monday,2.2
+Emily Thompson,immunology,Monday,4.4
+Richard Todd,hematology,Wednesday,4.9
+Jeffrey Harding,general practice,Friday,3.0
+Adam Mcmahon,immunology,Thursday,3.0
+Katherine Jefferson,rheumatology,Tuesday,3.6
+John Mckenzie,gynecology,Tuesday,3.2
+Ashley Wells,infectious diseases,Tuesday,3.2
+Karen Ortiz,immunology,Friday,2.3
+Dennis Rosario,pulmonology,Tuesday,4.9
+Darin Duke,gynecology,Monday,4.6
+Christina Newman,neurology,Friday,3.6
+Laurie Erickson,orthopedics,Friday,2.9
+Brittany Martinez,infectious diseases,Monday,4.6
+Nathan Brown,immunology,Friday,2.8
+Luis Greene,gastroenterology,Monday,3.9
+Brandon Munoz,general practice,Friday,2.9
+Kimberly Richard,gastroenterology,Wednesday,2.5
+Cameron Brady,urology,Thursday,3.3
+Virginia Horn,immunology,Monday,2.3
+Courtney Ellis,gastroenterology,Wednesday,4.5
+Randy Mckenzie,immunology,Thursday,2.3
+James Wilson,otolaryngology,Wednesday,4.6
+Amy Cisneros,neurology,Wednesday,2.4
+Steven Vega,dermatology,Friday,4.6
+Patricia Sanchez,infectious diseases,Monday,2.8
+Martha Higgins,immunology,Thursday,4.1
+Dr. Steven Moore,gynecology,Thursday,3.1
+Tonya Williams,pediatrics,Wednesday,4.2
+Rachel Mcdonald,general practice,Wednesday,4.7
+Christian Harris,dermatology,Thursday,2.0
+Tiffany Simmons,pediatrics,Wednesday,2.3
+William Mccarty,ophthalmology,Monday,2.9
+Jeanette Hall,oncology,Thursday,3.0
+Amy Barr,otolaryngology,Wednesday,4.6
+Michael Carrillo,hematology,Monday,3.2
+Stefanie Williamson,neurology,Wednesday,4.5
+Angela Decker,infectious diseases,Tuesday,2.3
+Nicole Webb,orthopedics,Wednesday,4.0
+Stephanie Callahan,pediatrics,Friday,4.5
+Abigail Sanders,psychology,Tuesday,3.9
+David Perry,dermatology,Friday,2.1
+Catherine Smith,rheumatology,Monday,3.3
+Jasmine Reyes,ophthalmology,Friday,4.0
+Robert Murray,cardiology,Monday,2.4
+John Owens,rheumatology,Monday,4.0
+Christine Murray,gynecology,Tuesday,2.5
+Anna Olsen,orthopedics,Thursday,4.0
+Steven Reed,urology,Monday,2.2
+Lori Holt,gastroenterology,Monday,4.3
+Gregory Jennings,orthopedics,Friday,2.1
+Larry Ho,orthopedics,Monday,3.2
+Daniel Sheppard,urology,Tuesday,3.2
+Derek Sims,gynecology,Thursday,2.5
+Gabriel Perez II,gastroenterology,Tuesday,3.7
+Stephen Phillips,nephrology,Friday,2.2
+Michael Taylor,rheumatology,Thursday,2.1
+Larry Fisher,gynecology,Tuesday,2.7
+Erin Smith,pulmonology,Monday,3.3
+Joseph Sanchez,infectious diseases,Wednesday,2.3
+Rebecca Gallagher,nephrology,Friday,3.5
+Isaiah Johnson,hematology,Friday,3.7
+Michael Bright,neurology,Thursday,5.0
+Michael Bennett MD,oncology,Thursday,2.9
+Tiffany Church,orthopedics,Tuesday,2.3
+David Allen,infectious diseases,Monday,5.0
+Marcus Mathis,gynecology,Thursday,2.6
+Ashley Morrison,ophthalmology,Thursday,3.5
+Kathryn Bowman,urology,Tuesday,4.7
+Krista Mcpherson,neurology,Friday,2.6
+Helen Jones,otolaryngology,Wednesday,2.8
+Melissa Davis,gastroenterology,Friday,3.9
+Shelley Kelly,pulmonology,Wednesday,3.8
+James Simmons,dermatology,Monday,2.2
+Joshua Hogan,nephrology,Thursday,3.5
+Pam Juarez,immunology,Thursday,3.3
+Zachary Cox,otolaryngology,Friday,4.0
+Colton Rodriguez,nephrology,Tuesday,2.4
+Brian Carroll,infectious diseases,Thursday,2.7
+Thomas Miller,pulmonology,Wednesday,3.1
+Dennis Lopez,general practice,Thursday,3.1
+Adam Pena,gastroenterology,Wednesday,2.8
+Nicole Smith,orthopedics,Tuesday,3.9
+Trevor Scott,endocrinology,Wednesday,4.8
+Thomas Ward,general practice,Friday,2.1
+Kevin Logan,gynecology,Tuesday,2.4
+Lisa Floyd,endocrinology,Friday,3.2
+Timothy Campbell,dermatology,Friday,2.1
+Kimberly Schmidt,nephrology,Wednesday,4.2
+Cheryl Brown,neurology,Thursday,4.6
+James Wade,urology,Wednesday,2.6
+Lauren Campbell,otolaryngology,Tuesday,3.8
+Stephanie Cox,infectious diseases,Friday,3.0
+Mr. Justin Cook,pediatrics,Monday,3.8
+Jason Wyatt,cardiology,Wednesday,3.0
+Roberta Young,ophthalmology,Tuesday,2.9
+Tracy Murray,neurology,Tuesday,2.3
+Chad White,otolaryngology,Wednesday,5.0
+Erik Graham,infectious diseases,Thursday,2.7
+Amy Baker,rheumatology,Wednesday,3.4
+Adam Bolton,endocrinology,Tuesday,4.9
+William Moore,nephrology,Tuesday,4.3
+Danielle Osborne,dermatology,Monday,4.8
+Ryan Jones,neurology,Tuesday,2.3
+Mr. James Delgado,infectious diseases,Friday,2.4
+Jason Joseph,urology,Tuesday,4.7
+Javier Gill,ophthalmology,Tuesday,4.1
+Thomas Giles,neurology,Friday,2.7
+Heather Beard,cardiology,Friday,3.2
+Sarah Matthews,general practice,Friday,3.3
+Cynthia Hebert,general practice,Tuesday,4.6
+Brian Richardson,otolaryngology,Friday,4.3
+Jesus Moore,pediatrics,Friday,4.1
+Rodney Evans,general practice,Thursday,3.4
+Andrea Parker,cardiology,Friday,3.3
+Seth Griffin,otolaryngology,Wednesday,4.8
+Brandy Phillips,pulmonology,Friday,4.6
+Mary Turner,dermatology,Thursday,4.3
+Mary Cameron,neurology,Friday,2.9
+Jesse Wagner,gastroenterology,Wednesday,3.4
+Jonathan Rice,psychology,Wednesday,4.4
+Robert Werner,hematology,Tuesday,4.0
+Richard Velazquez,infectious diseases,Monday,3.9
+Kimberly Campbell,rheumatology,Wednesday,3.0
+Renee Thomas,hematology,Friday,4.6
+Richard Frederick,neurology,Wednesday,4.7
+Roy Moore,ophthalmology,Friday,4.0
+Stephanie Ray,general practice,Tuesday,4.1
+Paula Wilson,cardiology,Wednesday,2.9
+Angela Dixon DVM,pulmonology,Friday,4.2
+Sarah Daniels,ophthalmology,Wednesday,4.2
+Emma Coleman,nephrology,Wednesday,2.3
+Debra Holmes,gynecology,Tuesday,3.0
+Denise Lyons,hematology,Thursday,3.1
+David Robinson,general practice,Monday,2.3
+Jorge Hill,general practice,Friday,2.0
+Jeanne Phelps,psychology,Monday,3.7
+Aaron Whitaker,general practice,Wednesday,2.9
+Christopher Myers,endocrinology,Friday,4.1
+Kristine Scott,nephrology,Wednesday,3.7
+Alyssa Wood,immunology,Thursday,4.1
+Jennifer Alvarez,urology,Tuesday,3.3
+Benjamin Carroll,psychology,Monday,3.0
+Hayley Brandt,otolaryngology,Friday,3.7
+Melinda Johnson,cardiology,Friday,4.9
+Nancy Gonzalez,gynecology,Wednesday,3.9
+Elizabeth Robinson,neurology,Wednesday,2.5
+Michael Bailey,psychology,Friday,2.6
+Jonathan Banks,cardiology,Thursday,3.8
+Marcus Alvarez,immunology,Friday,2.9
+Jeffrey Weeks,rheumatology,Tuesday,2.6
+Jennifer Johnson,rheumatology,Monday,3.8
+Courtney Middleton,pediatrics,Monday,2.8
+Thomas Johnson,cardiology,Tuesday,2.6
+Chad Reed,pediatrics,Monday,2.2
+David Powers,gastroenterology,Wednesday,2.6
+Gregory Coleman DVM,pediatrics,Thursday,2.1
+Alicia Richardson,endocrinology,Thursday,3.9
+Ashley Williams,immunology,Monday,4.9
+Sean Alvarez,oncology,Tuesday,4.7
+Denise Parrish,pediatrics,Thursday,3.2
+Monica Martinez,nephrology,Thursday,4.8
+Julie Graham,dermatology,Wednesday,3.7
+Laurie Perez,dermatology,Wednesday,4.5
+Sarah Duran,pulmonology,Wednesday,4.3
+Ryan Huffman,pulmonology,Friday,2.1
+Angela Williams,pulmonology,Wednesday,2.8
+Matthew Ryan,immunology,Thursday,3.5
+Antonio Fisher,gynecology,Friday,3.7
+Nicole Novak,pediatrics,Tuesday,4.1
+Rodney Kelly,oncology,Wednesday,2.3
+Jeffrey Garza,pulmonology,Friday,4.6
+Andrew Barry,immunology,Friday,4.4
+Amy Mitchell,general practice,Thursday,4.2
+Ashley Contreras,psychology,Friday,2.4
+Nathan Hardy,infectious diseases,Wednesday,3.9
+Ashley Cooper MD,gastroenterology,Friday,3.3
+Andrew Smith,cardiology,Wednesday,4.3
+Scott Adams,psychology,Thursday,4.3
+Grant Leon,neurology,Monday,4.1
+Jacob Robinson,gynecology,Monday,3.8
+Carrie Wilson,psychology,Friday,2.3
+Heather Kidd,neurology,Thursday,2.8
+Rhonda Christensen,ophthalmology,Wednesday,3.9
+Billy Miles,hematology,Thursday,2.7
+Bob Bush,dermatology,Thursday,4.4
+Joshua Hunter,oncology,Tuesday,2.7
+Nathan Hill,hematology,Thursday,2.0
+Matthew Brown,urology,Friday,4.0
+Joshua White,immunology,Friday,3.7
+Erik Frazier,gastroenterology,Friday,4.7
+Dennis Watson,endocrinology,Tuesday,4.9
+Elizabeth Aguilar,psychology,Thursday,2.6
+Christopher Anderson,orthopedics,Tuesday,4.3
+Spencer Ball DDS,gastroenterology,Friday,4.4
+Veronica Obrien,psychology,Tuesday,4.2
+Michael Cherry,endocrinology,Wednesday,4.7
+Christopher Figueroa,nephrology,Monday,2.8
+Kristen Castro,neurology,Monday,3.3
+Renee Villarreal,nephrology,Thursday,4.4
+Brian Reed,pediatrics,Monday,4.8
+Beverly Wilkerson,cardiology,Tuesday,2.1
+Meghan Davis,hematology,Thursday,2.8
+Elizabeth Mendoza,urology,Wednesday,4.7
+Tammy Howard,otolaryngology,Wednesday,4.5
+Casey Dodson,rheumatology,Tuesday,2.1
+Dawn Simpson,otolaryngology,Monday,4.0
+Lisa Carr,gynecology,Monday,2.9
+Joshua Spencer,rheumatology,Wednesday,3.4
+Matthew Joseph,infectious diseases,Thursday,4.9
+William Schultz,general practice,Tuesday,4.2
+Lindsay Mcdonald,gynecology,Friday,3.8
+Roger Brown,nephrology,Friday,3.2
+William Scott,orthopedics,Friday,3.2
+Luis Hubbard,orthopedics,Friday,2.1
+Scott Harper,oncology,Wednesday,4.5
+Paula Cummings,oncology,Friday,4.7
+Taylor Coleman,gynecology,Wednesday,3.5
+Brian Stevens,cardiology,Tuesday,2.7
+Phillip Williams Jr.,pulmonology,Thursday,2.2
+Christine Powell,pulmonology,Friday,4.2
+Sara Hernandez,immunology,Friday,4.4
+Marissa Marks,urology,Monday,3.8
+Jacob Welch,endocrinology,Monday,2.3
+Kristin Woods,pediatrics,Thursday,4.0
+Erin Mack,nephrology,Friday,2.3
+Steven Lamb,gastroenterology,Tuesday,4.4
+Justin Lopez,cardiology,Monday,2.7
+Robert Castillo,gastroenterology,Wednesday,4.8
+Robert Mason,pulmonology,Wednesday,2.6
+Lindsey Hughes,pediatrics,Friday,2.9
+Thomas Stuart,hematology,Friday,3.7
+Matthew Johnson,hematology,Monday,4.6
+John Moss,hematology,Tuesday,4.1
+Michael Yu,gastroenterology,Monday,4.0
+Kristen Greene,endocrinology,Tuesday,4.7
+Kristopher Mason,neurology,Monday,2.9
+Leonard Eaton,dermatology,Friday,2.1
+Kara Hansen,immunology,Thursday,4.2
+Jesse Villarreal,neurology,Thursday,3.1
+Danielle Espinoza,ophthalmology,Wednesday,2.7
+Christopher Pearson,orthopedics,Friday,4.7
+Sarah Frost,gynecology,Wednesday,3.3
+Jeremy Peterson,neurology,Wednesday,2.3
+Patricia Poole,oncology,Thursday,4.9
+Victoria Patton,orthopedics,Friday,4.2
+Nicholas Cox,hematology,Tuesday,4.9
+Austin Ho,gynecology,Friday,4.6
+Victor Hernandez,orthopedics,Tuesday,3.4
+Robert Pierce,neurology,Monday,2.1
+Harry Gillespie,general practice,Friday,3.5
+Juan Lee,oncology,Wednesday,2.4
+Johnny Olson,endocrinology,Monday,3.5
+Jesse Williamson,nephrology,Thursday,4.9
+Kathleen Wagner,gastroenterology,Friday,2.9
+Erika Clarke,ophthalmology,Tuesday,3.4
+Elizabeth Wall,endocrinology,Wednesday,2.2
+Tyler Hurley,orthopedics,Tuesday,2.8
+Christopher May,nephrology,Friday,3.5
+Jay Becker,oncology,Wednesday,3.1
+Megan Morris,ophthalmology,Friday,4.9
+Kyle Adams,dermatology,Monday,4.3
+John Garcia,infectious diseases,Tuesday,3.9
+Alyssa Ramos,neurology,Thursday,3.7
+Eric Henderson,urology,Tuesday,4.3
+Angela Bond,psychology,Monday,2.4
+Roger Chapman,neurology,Friday,3.2
+Phillip Bennett,hematology,Wednesday,3.4
+Kimberly Leonard,rheumatology,Tuesday,3.8
+Frederick Wilson,cardiology,Thursday,3.9
+Timothy Cooley,neurology,Friday,2.8
+Daniel Hernandez,otolaryngology,Tuesday,3.2
+Carla Bryant,oncology,Tuesday,4.0
+Paul Wise,rheumatology,Tuesday,3.8
+Maria Bartlett,pediatrics,Monday,3.8
+Kimberly Gallagher,nephrology,Thursday,4.9
+Pamela Ruiz,immunology,Thursday,4.6
+Edward Wright,pediatrics,Thursday,3.9
+Christopher Carter,orthopedics,Monday,2.6
+Nicole Andrews,neurology,Friday,4.2
+Elizabeth Branch,gastroenterology,Monday,2.3
+Paula Franklin,urology,Thursday,4.0
+Teresa Webb,dermatology,Thursday,5.0
+Marie Reyes,rheumatology,Monday,2.6
+Carol Cisneros,neurology,Tuesday,3.4
+John Johnson,nephrology,Wednesday,3.7
+Martin Adkins,urology,Monday,3.7
+Jesse Joyce,ophthalmology,Monday,2.6
+Richard Rich,orthopedics,Tuesday,3.0
+Amanda Gallagher,nephrology,Wednesday,3.4
+Jackie Howard,pediatrics,Friday,3.9
+Ann Martin,otolaryngology,Tuesday,4.9
+Bradley Anderson,general practice,Tuesday,3.2
+Kenneth Rodriguez,otolaryngology,Monday,2.6
+Ryan Bruce,dermatology,Wednesday,3.0
+Betty Reid,rheumatology,Tuesday,4.0
+Brian Evans,gynecology,Thursday,4.1
+Francisco Miller,psychology,Thursday,4.5
+Sarah Ayala DDS,hematology,Tuesday,2.2
+Amanda Horton,ophthalmology,Thursday,2.3
+Heather Ramos,pulmonology,Monday,2.6
+James Newton,pediatrics,Tuesday,2.7
+Kelsey Terry,pediatrics,Friday,4.3
+Jennifer Vaughn,pulmonology,Friday,3.4
+Richard Li,cardiology,Wednesday,4.4
+Anna Dyer,gynecology,Monday,4.8
+James Moody,ophthalmology,Monday,3.6
+William Hawkins,rheumatology,Wednesday,2.3
+Kenneth Becker,ophthalmology,Wednesday,2.7
+William Griffin,cardiology,Thursday,2.3
+Mary Jensen,pulmonology,Thursday,4.6
+Erin Johnson,ophthalmology,Monday,4.8
+Donald Turner,otolaryngology,Thursday,4.8
+Rebecca Scott,oncology,Tuesday,4.0
+Christopher Wilson,general practice,Thursday,4.8
+Timothy Yates,hematology,Wednesday,2.1
+Christina Knox,gastroenterology,Monday,4.4
+Elizabeth Andrews,ophthalmology,Tuesday,4.5
+Dustin Jones,immunology,Monday,4.7
+Renee Gordon,urology,Tuesday,2.0
+Lauren Lin,gastroenterology,Monday,3.8
+Stephanie Parker,gastroenterology,Thursday,4.8
+Bobby Wang,endocrinology,Friday,3.5
+Jessica Ramos,ophthalmology,Friday,2.6
+Olivia Casey,psychology,Monday,3.3
+Eric Gardner,dermatology,Friday,4.7
+Alexis Soto,nephrology,Thursday,3.5
+Glenda Ruiz,urology,Thursday,4.9
+Jason Fisher,general practice,Tuesday,2.5
+Roger Evans,immunology,Wednesday,4.5
+Jacqueline Williams,cardiology,Monday,3.7
+Jasmine Finley,hematology,Wednesday,2.8
+Peter Rubio,hematology,Tuesday,3.5
+Ryan Johnson,nephrology,Monday,4.3
+Michael Brown,oncology,Tuesday,3.3
+Samantha Miller,oncology,Tuesday,3.5
+Kathryn Pugh,gastroenterology,Friday,4.6
+Brittany Fuentes,psychology,Thursday,4.0
+Daniel Wright,psychology,Tuesday,4.8
+Emily Thomas,infectious diseases,Friday,3.6
+Benjamin Ruiz,endocrinology,Wednesday,3.5
+Ricardo Nelson,neurology,Friday,4.7
+Kerry Johnson,gynecology,Monday,2.3
+Gina Burgess,dermatology,Thursday,3.1
+Karen Thomas,immunology,Thursday,2.0
+William Taylor MD,urology,Tuesday,3.6
+Alicia Johnson,nephrology,Monday,2.4
+Gabriella Diaz,otolaryngology,Thursday,3.1
+Melissa Hansen,pediatrics,Tuesday,2.0
+Kimberly Miller,immunology,Monday,3.1
+Kenneth Murphy,pulmonology,Thursday,3.9
+Steven Harris,gastroenterology,Wednesday,3.1
+Patrick Nelson,psychology,Wednesday,3.7
+Latoya Gilbert,urology,Thursday,4.0
+Laura Garrett,orthopedics,Tuesday,2.3
+Jeffrey Gamble,cardiology,Wednesday,4.3
+Kristina Robinson,otolaryngology,Thursday,2.1
+Diana Dixon,infectious diseases,Wednesday,2.1
+Lori Mercado,urology,Friday,5.0
+Sheryl Walker,immunology,Monday,4.5
+Bradley Townsend,dermatology,Monday,3.8
+Steven Bell,dermatology,Thursday,2.9
+Isabel Morris,neurology,Wednesday,4.8
+Elizabeth Church,general practice,Wednesday,4.6
+Marvin Evans,otolaryngology,Thursday,3.9
+Douglas Anderson,ophthalmology,Monday,4.5
+Richard Garcia,rheumatology,Monday,2.1
+Daniel Morgan,gynecology,Wednesday,3.6
+Bradley Pugh,pulmonology,Wednesday,4.0
+Mary Caldwell,infectious diseases,Monday,2.7
+Nicole Stephens,cardiology,Wednesday,2.9
+Erica Daniels,oncology,Monday,2.0
+Dr. Antonio Castro,pediatrics,Monday,4.6
+Evan Henry,general practice,Friday,2.5
+Philip Bray,neurology,Monday,3.8
+Christopher Leach,cardiology,Tuesday,4.7
